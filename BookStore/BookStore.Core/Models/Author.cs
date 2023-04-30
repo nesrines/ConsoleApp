@@ -1,13 +1,13 @@
 ﻿using BookStore.Core.Models.Base;
 namespace BookStore.Core.Models
 {
-    public class Author:BaseModel
+    public class Author : BaseModel
     {
         private static int _id;
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public int Age { get; set; }
-        public List<Book> Books { get; set; }
+        public List<Book> Books;
         public Author(string FirstName, string LastName, int Age)
         {
             _id++;
@@ -15,6 +15,7 @@ namespace BookStore.Core.Models
             this.FirstName = FirstName;
             this.LastName = LastName;
             this.Age = Age;
+            Books = new List<Book>();
             CreatedDate = DateTime.UtcNow.AddHours(4);
         }
         public override string ToString()

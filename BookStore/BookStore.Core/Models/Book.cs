@@ -2,7 +2,7 @@
 using BookStore.Core.Enums;
 namespace BookStore.Core.Models
 {
-    public class Book:BaseModel
+    public class Book : BaseModel
     {
         private static int _id;
         public string Title { get; set; }
