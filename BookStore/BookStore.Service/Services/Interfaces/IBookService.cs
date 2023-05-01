@@ -8,6 +8,7 @@ namespace BookStore.Service.Services.Interfaces
         public Task<string> UpdateAsync(int AuthorId, int BookId);
         public Task<string> DeleteAsync(int AuthorId, int BookId);
         public Task<Book> GetAsync(int AuthorId, int BookId);
-        public Task GetAllAsync();
+        public Task ShowAllAsync();
+        public Task<string> BuyBook(int AuthorId, int BookId);
     }
 }

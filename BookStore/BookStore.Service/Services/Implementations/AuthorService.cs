@@ -8,7 +8,6 @@ namespace BookStore.Service.Services.Implementations
         private static readonly AuthorRepository _authorRepository = new AuthorRepository();
         public async Task<string> CreateAsync()
         {
-            Console.ForegroundColor = ConsoleColor.Red;
             Console.WriteLine("Enter the first name of the author:");
             string FirstName = Console.ReadLine().Trim();
             while (string.IsNullOrWhiteSpace(FirstName))
@@ -34,13 +33,13 @@ namespace BookStore.Service.Services.Implementations
 
             Console.WriteLine("Enter the age of the author:");
             int.TryParse(Console.ReadLine().Trim(), out int Age);
-            while (Age < 13)
+            while (Age < 10 || Age > 100)
             {
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.Write("Age is not valid. ");
                 Console.ForegroundColor = ConsoleColor.White;
                 Console.WriteLine("Enter the age of the author again:");
-                FirstName = Console.ReadLine().Trim();
+                int.TryParse(Console.ReadLine().Trim(), out Age);
             }
 
             Console.ForegroundColor = ConsoleColor.Green;
@@ -97,7 +96,7 @@ namespace BookStore.Service.Services.Implementations
                     case "3":
                         Console.WriteLine("Enter the updated age of the author:");
                         int.TryParse(Console.ReadLine().Trim(), out int Age);
-                        while (Age < 13)
+                        while (Age < 10 || Age > 100)
                         {
                             Console.ForegroundColor = ConsoleColor.Red;
                             Console.Write("Age is not valid. ");

@@ -20,7 +20,7 @@ namespace BookStore.Core.Models
         }
         public override string ToString()
         {
-            return $"Name: {FirstName} {LastName}, Age: {Age}, Created: {CreatedDate}, Updated: {UpdatedDate}";
+            return $"ID: {Id}, Name: {FirstName} {LastName}, Age: {Age}, Created: {CreatedDate}, Updated: {UpdatedDate}";
         }
     }
 }
