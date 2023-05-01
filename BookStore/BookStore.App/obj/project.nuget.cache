@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1PfHv2ZmwqqfKsj2Dyrpza+zXaS2cZCAMJNgmu55TMvDbdq2WBQdyCXdLK6zVOmoedaZtZDH04N6wDzL6VpB2A==",
+  "dgSpecHash": "fSZ23QFnwIx3PWpCCml7eC3yieqRd/QhAK80pBPqVD7ki6ZduL/fehDws+yODuX+S9cOD1f+62UZrEmNtDAJSw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Atilla\\source\\repos\\BookStore\\BookStore.App\\BookStore.App.csproj",
+  "projectFilePath": "C:\\Users\\nasrinfa\\source\\repos\\ConsoleApp\\BookStore\\BookStore.App\\BookStore.App.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

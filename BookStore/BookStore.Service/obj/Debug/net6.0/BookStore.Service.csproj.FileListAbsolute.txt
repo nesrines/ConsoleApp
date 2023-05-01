@@ -1,0 +1,17 @@
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\bin\Debug\net6.0\BookStore.Service.deps.json
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\bin\Debug\net6.0\BookStore.Service.dll
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\bin\Debug\net6.0\BookStore.Service.pdb
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\bin\Debug\net6.0\BookStore.Core.dll
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\bin\Debug\net6.0\BookStore.Data.dll
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\bin\Debug\net6.0\BookStore.Data.pdb
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\bin\Debug\net6.0\BookStore.Core.pdb
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\obj\Debug\net6.0\BookStore.Service.csproj.AssemblyReference.cache
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\obj\Debug\net6.0\BookStore.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\obj\Debug\net6.0\BookStore.Service.AssemblyInfoInputs.cache
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\obj\Debug\net6.0\BookStore.Service.AssemblyInfo.cs
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\obj\Debug\net6.0\BookStore.Service.csproj.CoreCompileInputs.cache
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\obj\Debug\net6.0\BookStore.Service.csproj.CopyComplete
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\obj\Debug\net6.0\BookStore.Service.dll
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\obj\Debug\net6.0\refint\BookStore.Service.dll
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\obj\Debug\net6.0\BookStore.Service.pdb
+C:\Users\nasrinfa\source\repos\ConsoleApp\BookStore\BookStore.Service\obj\Debug\net6.0\ref\BookStore.Service.dll

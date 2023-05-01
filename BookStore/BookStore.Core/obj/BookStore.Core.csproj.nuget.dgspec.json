@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Atilla\\source\\repos\\BookStore\\BookStore.Core\\BookStore.Core.csproj": {}
+    "C:\\Users\\nasrinfa\\source\\repos\\ConsoleApp\\BookStore\\BookStore.Core\\BookStore.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Atilla\\source\\repos\\BookStore\\BookStore.Core\\BookStore.Core.csproj": {
+    "C:\\Users\\nasrinfa\\source\\repos\\ConsoleApp\\BookStore\\BookStore.Core\\BookStore.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Atilla\\source\\repos\\BookStore\\BookStore.Core\\BookStore.Core.csproj",
+        "projectUniqueName": "C:\\Users\\nasrinfa\\source\\repos\\ConsoleApp\\BookStore\\BookStore.Core\\BookStore.Core.csproj",
         "projectName": "BookStore.Core",
-        "projectPath": "C:\\Users\\Atilla\\source\\repos\\BookStore\\BookStore.Core\\BookStore.Core.csproj",
-        "packagesPath": "C:\\Users\\Atilla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Atilla\\source\\repos\\BookStore\\BookStore.Core\\obj\\",
+        "projectPath": "C:\\Users\\nasrinfa\\source\\repos\\ConsoleApp\\BookStore\\BookStore.Core\\BookStore.Core.csproj",
+        "packagesPath": "C:\\Users\\nasrinfa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\nasrinfa\\source\\repos\\ConsoleApp\\BookStore\\BookStore.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Atilla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\nasrinfa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

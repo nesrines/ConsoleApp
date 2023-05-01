@@ -1,13 +1,13 @@
 ﻿using BookStore.Core.Models;
-
+using BookStore.Core.Enums;
 namespace BookStore.Service.Services.Interfaces
 {
     public interface IBookService
     {
-        public Task<string> CreateAsync(string Title, double Price, double DiscountedPrice);
-        public Task<string> UpdateAsync(int AuthorId, int BookId, string Title, double Price, double DiscountedPrice);
+        public Task<string> CreateAsync(int AuthorId);
+        public Task<string> UpdateAsync(int AuthorId, int BookId);
         public Task<string> DeleteAsync(int AuthorId, int BookId);
-        public Task<Book> GetAsync(int AuhtorId, int BookId);
-        public Task<List<Book>> GetAllAsync();
+        public Task<Book> GetAsync(int AuthorId, int BookId);
+        public Task GetAllAsync();
     }
 }
